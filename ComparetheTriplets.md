@@ -1,4 +1,5 @@
 (https://github.com/RevYolution/HakerRankProblems/blob/master/problemPDFs/Compare-the-Triplets.pdf)
+[embed]https://github.com/RevYolution/HakerRankProblems/blob/master/problemPDFs/Compare-the-Triplets.pdf[/embed]
 
 ```C#
 using System.CodeDom.Compiler;
