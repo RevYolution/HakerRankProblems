@@ -1,4 +1,4 @@
-![CompareTheTriplets]()
+![CompareTheTriplets](https://github.com/RevYolution/HakerRankProblems/blob/master/problemPDFs/Compare-the-Triplets.pdf)
 
 ```C#
 using System.CodeDom.Compiler;
