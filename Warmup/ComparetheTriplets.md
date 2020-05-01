@@ -1,5 +1,3 @@
-(https://github.com/RevYolution/HakerRankProblems/blob/master/problemPDFs/Compare-the-Triplets.pdf)
-
 ## The Problem
 Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from  to  for three categories: problem clarity, originality, and difficulty.
 
